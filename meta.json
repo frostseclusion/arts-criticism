@@ -1,0 +1,10 @@
+{
+  "id": "literary-criticism",
+  "name": "文学评论",
+  "repo": "frostseclusion/literary-criticism",
+  "branch": "main",
+  "site": "",
+  "description": "读小说、读诗、读那些被误读的书。",
+  "license": "CC BY-NC-SA 4.0",
+  "started": "2026-01"
+}
