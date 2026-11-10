@@ -2,9 +2,7 @@
 
 > 读小说、读诗、读那些被误读的书。
 
-「雪蘅的文集」的一个分册。社会评论在 [social-commentary](https://github.com/frostseclusion/social-commentary)，汇总页在 [essays](https://github.com/frostseclusion/essays)。
-
-讨论、勘误、选题，都在 [Discussions](https://github.com/frostseclusion/literary-criticism/discussions)。
+「雪蘅的文集」的一个分册。社会评论在 [social-commentary](https://github.com/frostseclusion/social-commentary)，两个分册的汇总在 [essays](https://github.com/frostseclusion/essays)。
 
 ## 目录
 
@@ -12,18 +10,20 @@
 _还没有文章。_
 <!-- END:POSTS -->
 
-## 关于这个仓
+## 关于
 
-- **结构**：`posts/` 是唯一会被发布的内容；`drafts/` 只在本地，不进仓库。
-- **发布**：写完从 `drafts/` 挪进 `posts/`，把 `status` 改成 `published`，提交即可，目录自动重排。
-- **许可**：正文著作权归「雪蘅」所有，按 [CC BY-NC-SA 4.0](LICENSE) 授权（署名 / 非商业 / 改编后须同样开放）；`scripts/` 用 [MIT](scripts/LICENSE)。
+文章一篇一个文件，各自的网址固定不变，改标题也不会让旧链接失效。
 
-## 目录结构
+上面的目录不是手写的。每次提交之后 GitHub 会自动检查一遍：标题、日期、摘要有没有填，图片是不是都还在，slug 有没有重复，然后把目录按日期重排。所以这里不会出现漏掉的条目，也不会出现顺序错乱。
 
-```
-posts/      已发布文章，文件名 = slug
-drafts/     未完成的稿子（本地，被 .gitignore 排除）
-assets/     图片，按 slug 分目录
-scripts/    自检 + 生成目录 / feed，零依赖
-meta.json   这个仓的元信息
-```
+正文里的图片放在 `assets/` 下，一篇一个文件夹。`drafts/` 是草稿区，只在我自己的电脑上，不会传上来。
+
+## 许可
+
+文章按 [CC BY-NC-SA 4.0](LICENSE) 授权。转载、翻译、摘编、朗读、改编都可以，条件是署名「雪蘅」、不用于商业目的，并且改编出来的东西也要用同样的许可开放。完整条款在 [LICENSE](LICENSE)。
+
+`scripts/` 下的两个小脚本不适用这份许可，单独用 MIT，见 [scripts/LICENSE](scripts/LICENSE)。
+
+## 讨论
+
+勘误、留言、想让我写什么，都在 [Discussions](https://github.com/frostseclusion/literary-criticism/discussions)。
