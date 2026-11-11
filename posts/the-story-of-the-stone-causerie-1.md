@@ -2,9 +2,9 @@
 title: 红楼梦随笔 · 其一
 slug: the-story-of-the-stone-causerie-1
 date: 2026-09-17
-updated: 2026-09-28
+updated: 2026-11-11
 status: published
-summary: 从龄官画蔷说起——一面镜子，一场反封建的爱情，和一个委屈的宝姐姐。
+summary: 蔷龄，镜子，薛宝钗。
 tags: [红楼梦, 细读]
 license: CC-BY-NC-SA-4.0
 ---

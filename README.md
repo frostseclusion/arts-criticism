@@ -9,7 +9,7 @@
 <!-- BEGIN:POSTS -->
 **2026**
 
-- 2026-09-17 · [红楼梦随笔 · 其一](posts/the-story-of-the-stone-causerie-1.md) — 从龄官画蔷说起——一面镜子，一场反封建的爱情，和一个委屈的宝姐姐。 `红楼梦` `细读`
+- 2026-09-17 · [红楼梦随笔 · 其一](posts/the-story-of-the-stone-causerie-1.md) — 蔷龄，镜子，薛宝钗。 `红楼梦` `细读`
 
 _共 1 篇已发布。_
 <!-- END:POSTS -->
