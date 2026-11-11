@@ -1,6 +1,6 @@
 ---
 title: 红楼梦随笔 · 其一
-slug: hongloumeng-suibi-qiyi
+slug: the-story-of-the-stone-causerie-1
 date: 2026-09-17
 updated: 2026-09-28
 status: published
