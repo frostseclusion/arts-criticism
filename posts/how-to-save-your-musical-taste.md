@@ -6,6 +6,7 @@ updated: 2026-11-11
 status: published
 summary: 想拯救自己的审美，多少年都来得及。
 tags: [流行音乐, 审美]
+lang: zh
 license: CC-BY-NC-SA-4.0
 ---
 

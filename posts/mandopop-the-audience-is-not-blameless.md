@@ -6,6 +6,7 @@ updated: 2026-11-11
 status: published
 summary: 华语乐坛很糟糕，幸好听众也是。
 tags: [流行音乐, 听众, 文化批评]
+lang: zh
 license: CC-BY-NC-SA-4.0
 ---
 

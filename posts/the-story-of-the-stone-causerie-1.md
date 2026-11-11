@@ -6,6 +6,7 @@ updated: 2026-11-11
 status: published
 summary: 蔷龄，镜子，薛宝钗。
 tags: [红楼梦, 细读]
+lang: zh
 license: CC-BY-NC-SA-4.0
 ---
 
