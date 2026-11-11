@@ -1,10 +1,10 @@
 {
-  "id": "literary-criticism",
-  "name": "文学评论",
-  "repo": "frostseclusion/literary-criticism",
+  "id": "arts-criticism",
+  "name": "文艺评论",
+  "repo": "frostseclusion/arts-criticism",
   "branch": "main",
   "site": "",
-  "description": "读小说、读诗、读那些被误读的书。",
+  "description": "读小说、读诗、听音乐、看电影——以作品为对象的评论与细读。",
   "license": "CC BY-NC-SA 4.0",
   "started": "2026-01"
 }

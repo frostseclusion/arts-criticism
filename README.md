@@ -1,17 +1,30 @@
-# 文学评论
+# 文艺评论
 
-> 读小说、读诗、读那些被误读的书。
+> 读小说、读诗、听音乐、看电影——以作品为对象的评论与细读。
 
 「雪蘅的文集」的一个分册。社会评论在 [social-commentary](https://github.com/frostseclusion/social-commentary)，两个分册的汇总在 [essays](https://github.com/frostseclusion/essays)。
 
 ## 目录
 
 <!-- BEGIN:POSTS -->
+### 中文
+
 **2026**
 
 - 2026-09-17 · [红楼梦随笔 · 其一](posts/the-story-of-the-stone-causerie-1.md) — 蔷龄，镜子，薛宝钗。 `红楼梦` `细读`
+- 2026-06-01 · [华语乐坛：听众并不无辜](posts/mandopop-the-audience-is-not-blameless.md) — 华语乐坛很糟糕，幸好听众也是。 `流行音乐` `听众` `文化批评`
 
-_共 1 篇已发布。_
+**2024**
+
+- 2024-10-01 · [现代人音乐审美自救办法](posts/how-to-save-your-musical-taste.md) — 想拯救自己的审美，多少年都来得及。 `流行音乐` `审美`
+
+### English
+
+**2026**
+
+- 2026-06-25 · [Mandopop — The Audience Is Not Blameless](posts/mandopop-the-audience-is-not-blameless-en.md) — Mandopop is awful. Fortunately, so is the audience. `Mandopop` `listeners` `cultural criticism`
+
+_共 4 篇已发布（中文 3 篇，英文 1 篇）。_
 <!-- END:POSTS -->
 
 ## 关于
@@ -28,4 +41,4 @@ _共 1 篇已发布。_
 
 ## 讨论
 
-勘误、留言、想让我写什么，都在 [Discussions](https://github.com/frostseclusion/literary-criticism/discussions)。
+勘误、留言、想让我写什么，都在 [Discussions](https://github.com/frostseclusion/arts-criticism/discussions)。
