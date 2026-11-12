@@ -24,7 +24,7 @@
 **2026**
 
 - 2026-11-12 · [Why King Crimson Speaks Japanese](posts/why-king-crimson-speaks-japanese-en.md) — A speculative dive into the creative motivations behind “Matte Kudasai.” `Music` `Culture` `King Crimson`
-- 2026-06-25 · [Mandopop — The Audience Is Not Blameless](posts/mandopop-the-audience-is-not-blameless-en.md) — Mandopop is awful. Fortunately, so is the audience. `Mandopop` `listeners` `cultural criticism`
+- 2026-06-25 · [Mandopop—The Audience Is Not Blameless](posts/mandopop-the-audience-is-not-blameless-en.md) — Mandopop is awful. Fortunately, so is the audience. `Mandopop` `listeners` `cultural criticism`
 
 _共 6 篇已发布（中文 4 篇，英文 2 篇）。_
 <!-- END:POSTS -->
