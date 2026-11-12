@@ -83,7 +83,7 @@ If the past-worshippers never look down, these people never look up. A perfectly
 
 But who is persecuting them, really? It all stems from a deep-seated insecurity. They are indeed lacking in knowledge and narrow in perspective; they can’t follow the references other people make. But unwilling to concede any ground, they dismiss everything the other person says—including things that are common knowledge or must-listens within music circles—as mere posturing, mere attempts at superiority.
 
-These people aren’t here to talk about music. They’re here to pick a fight. I don’t understand why someone bringing up something you don’t know counts as “bullying.” By that logic, a primary school teacher teaching multiplication is guilty of “knowledge bullying,” and parents teaching life lessons are guilty of “experience bullying.”
+These people aren’t here to talk about music. They’re here to pick a fight. I don’t understand why someone bringing up something you don’t know counts as “bullying”. By that logic, a primary school teacher teaching multiplication is guilty of “knowledge bullying”, and parents teaching life lessons are guilty of “experience bullying”.
 
 The point is simple: no one can stop you from growing except yourself. Why not treat these moments as opportunities—to encounter something new, to learn a concept you didn’t know, to discover an album you might have missed? No one is born knowing everything, but there will always be someone who knows more than you. So why not try to learn a little more, even if only to have more to talk about over tea? Why be so thin-skinned and quick to take offense?
 
