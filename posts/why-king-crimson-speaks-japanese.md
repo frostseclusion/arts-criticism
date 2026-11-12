@@ -1,9 +1,11 @@
 ---
 title: 为什么 King Crimson 说日语
+author: 雪蘅
 slug: why-king-crimson-speaks-japanese
 date: 2026-11-12
 status: published
 summary: 擅自揣测《Matte Kudasai》的创作动机。
+words: 3185
 tags: [音乐, 文化, King Crimson]
 lang: zh
 license: CC-BY-NC-SA-4.0

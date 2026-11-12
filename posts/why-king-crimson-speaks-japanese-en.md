@@ -1,9 +1,11 @@
 ---
 title: Why King Crimson Speaks Japanese
+author: 雪蘅
 slug: why-king-crimson-speaks-japanese-en
 date: 2026-11-12
 status: published
 summary: A speculative dive into the creative motivations behind “Matte Kudasai.”
+words: 1657
 tags: [Music, Culture, King Crimson]
 lang: en
 translation_of: why-king-crimson-speaks-japanese
