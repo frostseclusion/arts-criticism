@@ -4,7 +4,7 @@
 
 > Reading novels, poems, listening to music, watching films — criticism and close reading of works.
 
-One volume of [Xue Heng's Collected Essays](https://github.com/frostseclusion/essays). Social commentary lives in [social-commentary](https://github.com/frostseclusion/social-commentary).
+One volume of [Frostseclusion's Collected Essays](https://github.com/frostseclusion/essays). Social commentary lives in [social-commentary](https://github.com/frostseclusion/social-commentary).
 
 ## Contents
 
