@@ -2,9 +2,9 @@
 
 # Arts Criticism
 
-> Reading novels, poems, listening to music, watching films — criticism and close reading of works.
+> Reading novels, poems, listening to music, watching films—criticism and close reading of works.
 
-One volume of [Frostseclusion's Collected Essays](https://github.com/frostseclusion/essays). Social commentary lives in [social-commentary](https://github.com/frostseclusion/social-commentary).
+One volume of [Frostseclusion’s Collected Essays](https://github.com/frostseclusion/essays). Social commentary lives in [social-commentary](https://github.com/frostseclusion/social-commentary).
 
 ## Contents
 
@@ -14,7 +14,7 @@ The post index is generated in the [Chinese README](README.md#目录) and kept u
 
 One file per post, and every post keeps a permanent URL: changing a title will not break old links.
 
-The index is not written by hand. After every push, GitHub checks that titles, dates, summaries and images are present and that slugs are unique, then re-sorts the list by date. So entries don't go missing and the order doesn't drift.
+The index is not written by hand. After every push, GitHub checks that titles, dates, summaries and images are present and that slugs are unique, then re-sorts the list by date. So entries don’t go missing and the order doesn’t drift.
 
 ## License
 

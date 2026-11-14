@@ -4,7 +4,7 @@
 
 > 读小说、读诗、听音乐、看电影——以作品为对象的评论与细读。
 
-「雪蘅的文集」的一个分册。社会评论在 [social-commentary](https://github.com/frostseclusion/social-commentary)，两个分册的汇总在 [essays](https://github.com/frostseclusion/essays)。
+“雪蘅的文集”的一个分册。社会评论在 [social-commentary](https://github.com/frostseclusion/social-commentary)，两个分册的汇总在 [essays](https://github.com/frostseclusion/essays)。
 
 ## 目录
 
