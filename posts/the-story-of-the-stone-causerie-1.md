@@ -1,5 +1,5 @@
 ---
-title: 红楼梦随笔 · 其一
+title: 红楼梦随笔·其一
 author: 雪蘅
 slug: the-story-of-the-stone-causerie-1
 date: 2026-09-17
