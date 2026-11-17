@@ -11,6 +11,7 @@ lang: en
 translation_of: why-king-crimson-speaks-japanese
 license: CC-BY-NC-SA-4.0
 ---
+
 The first time I listened to *Discipline*, “Matte Kudasai” grabbed me by the ears.
 
 I was busy with other things, the music merely humming in the background—a habit I’ve increasingly adopted for music appreciation these days, waiting for the right moment to give an album a proper listen. But when the record reached this track, I was caught almost instantly. I added it to my playlist straight away, telling myself, *Listen to this one closely next time.*
