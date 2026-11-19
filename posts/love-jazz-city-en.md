@@ -3,9 +3,10 @@ title: Love · Jazz · City
 author: 雪蘅
 slug: love-jazz-city-en
 date: 2026-11-19
+updated: 2026-11-19
 status: published
 summary: The first time in years I have distilled my feelings about my favorite film into words.
-words: 3947
+words: 3948
 tags: [Film, La La Land]
 lang: en
 translation_of: love-jazz-city
@@ -42,7 +43,7 @@ And she will never know that one offhand recommendation of hers changed another 
 
 When *La La Land* was first released in mainland China, I was still in elementary school.
 
-At the time I was in an interest class the school ran—photojournalism (a coincidence, always photography). The teacher was an interesting person with a rich life behind her, and, I suppose, something of an artsy young woman. In class she talked with us about film with great relish, as if a room of fourth and sixth graders could understand her. I do not blame her, though. I have always thought that not losing your enthusiasm for talking freely just because of your audience’s age is an excellent quality.
+At the time I was in an interest class the school ran—news writing (a coincidence, always photography). The teacher was an interesting person with a rich life behind her, and, I suppose, something of an artsy young woman. In class she talked with us about film with great relish, as if a room of fourth and sixth graders could understand her. I do not blame her, though. I have always thought that not losing your enthusiasm for talking freely just because of your audience’s age is an excellent quality.
 
 Back to the film. The distributor that year chose to release it on 14 February, which really was a cruel joke. Learning about this arrangement years later, I can imagine couples all over the streets buying into the film’s marketing, walking into the cinema full of anticipation, and ending up with a bad ending. But the studio’s reasoning was perfectly sound. It really is a film about love, no mistake about it.
 
