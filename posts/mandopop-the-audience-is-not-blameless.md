@@ -3,11 +3,11 @@ title: 华语乐坛：听众并不无辜
 author: 雪蘅
 slug: mandopop-the-audience-is-not-blameless
 date: 2026-06-01
-updated: 2026-11-11
+updated: 2026-11-19
 status: published
 summary: 华语乐坛很糟糕，幸好听众也是。
 words: 3105
-tags: [华语流行, 听众, 文化批评]
+tags: [音乐, 听众, 文化批评]
 lang: zh
 license: CC-BY-NC-SA-4.0
 ---

@@ -3,11 +3,11 @@ title: Mandopop—The Audience Is Not Blameless
 author: 雪蘅
 slug: mandopop-the-audience-is-not-blameless-en
 date: 2026-06-25
-updated: 2026-11-11
+updated: 2026-11-19
 status: published
 summary: Mandopop is awful. Fortunately, so is the audience.
 words: 2029
-tags: [Mandopop, listeners, cultural criticism]
+tags: [Music, listeners, cultural criticism]
 lang: en
 translation_of: mandopop-the-audience-is-not-blameless
 license: CC-BY-NC-SA-4.0

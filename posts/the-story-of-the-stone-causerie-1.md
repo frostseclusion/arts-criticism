@@ -3,7 +3,7 @@ title: 红楼梦随笔·其一
 author: 雪蘅
 slug: the-story-of-the-stone-causerie-1
 date: 2026-09-17
-updated: 2026-11-11
+updated: 2026-11-19
 status: published
 summary: 蔷龄，镜子，薛宝钗。
 words: 3368

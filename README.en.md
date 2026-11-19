@@ -16,11 +16,11 @@ One volume of [Frostseclusion’s Collected Essays](https://github.com/frostsecl
 - 2026-11-19 · [爱·乐·城](posts/love-jazz-city.md) — 多年来第一次凝练对自己最爱电影的感受。 `电影` `爱乐之城`
 - 2026-11-12 · [为什么 King Crimson 说日语](posts/why-king-crimson-speaks-japanese.md) — 擅自揣测《Matte Kudasai》的创作动机。 `音乐` `文化` `King Crimson`
 - 2026-09-17 · [红楼梦随笔·其一](posts/the-story-of-the-stone-causerie-1.md) — 蔷龄，镜子，薛宝钗。 `文学` `红楼梦`
-- 2026-06-01 · [华语乐坛：听众并不无辜](posts/mandopop-the-audience-is-not-blameless.md) — 华语乐坛很糟糕，幸好听众也是。 `华语流行` `听众` `文化批评`
+- 2026-06-01 · [华语乐坛：听众并不无辜](posts/mandopop-the-audience-is-not-blameless.md) — 华语乐坛很糟糕，幸好听众也是。 `音乐` `听众` `文化批评`
 
 **2024**
 
-- 2024-10-01 · [现代人音乐审美自救办法](posts/how-to-save-your-musical-taste.md) — 想拯救自己的审美，多少年都来得及。 `流行音乐` `审美`
+- 2024-10-01 · [现代人音乐审美自救办法](posts/how-to-save-your-musical-taste.md) — 想拯救自己的审美，多少年都来得及。 `音乐` `审美`
 
 ### English
 
@@ -28,7 +28,7 @@ One volume of [Frostseclusion’s Collected Essays](https://github.com/frostsecl
 
 - 2026-11-19 · [Love · Jazz · City](posts/love-jazz-city-en.md) — The first time in years I have distilled my feelings about my favorite film into words. `Film` `La La Land`
 - 2026-11-12 · [Why King Crimson Speaks Japanese](posts/why-king-crimson-speaks-japanese-en.md) — A speculative dive into the creative motivations behind “Matte Kudasai.” `Music` `Culture` `King Crimson`
-- 2026-06-25 · [Mandopop—The Audience Is Not Blameless](posts/mandopop-the-audience-is-not-blameless-en.md) — Mandopop is awful. Fortunately, so is the audience. `Mandopop` `listeners` `cultural criticism`
+- 2026-06-25 · [Mandopop—The Audience Is Not Blameless](posts/mandopop-the-audience-is-not-blameless-en.md) — Mandopop is awful. Fortunately, so is the audience. `Music` `listeners` `cultural criticism`
 
 _8 posts published (5 Chinese, 3 English)._
 <!-- END:POSTS -->
