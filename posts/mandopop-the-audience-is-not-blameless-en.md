@@ -6,7 +6,7 @@ date: 2026-06-25
 updated: 2026-11-21
 status: published
 summary: Mandopop is awful. Fortunately, so is the audience.
-words: 2064
+words: 2051
 tags: [Music, listeners, cultural criticism]
 lang: en
 translation_of: mandopop-the-audience-is-not-blameless
@@ -37,7 +37,7 @@ How far do these past-worshippers go? Their breadth of listening is likely the t
 >
 > “Basically a niche-music try-hard—an alternative-pop hangout.”
 
-(All of the above are quoted verbatim from the comment sections of HOPICO’s two videos on the 2025 HMA. The commenter above wrote the host’s name with the wrong character; it should be Zhou Yang, the host of HOPICO.)
+(All of the above are quoted verbatim from the comment sections of HOPICO’s two videos on the 2025 HMA. Zhou Yang is the host of HOPICO.)
 
 Some go even further, openly sneering: “Honestly, not as good as…” followed by the name of a Taiwanese pop star who blew up in the 2000s.
 
