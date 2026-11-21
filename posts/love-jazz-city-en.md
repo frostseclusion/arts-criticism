@@ -161,7 +161,7 @@ The blue hour is perfect for photography in every way except one: it passes.
 
 The 40 minutes mentioned above is in fact an optimistic figure. In practice the blue hour’s duration varies with latitude and season, and sometimes lasts only 15 to 30 minutes.
 
-Precisely because of this, when the production chose to rely entirely on natural light as its key light, they knew the challenge they faced. The window each day allowed them only 4 takes, each a single continuous shot.
+Precisely because of this, when the production chose to rely entirely on natural light as its key light, they knew the challenge they faced. The window each day allowed them only four takes, each a single continuous shot.
 
 In the end they shot over two evenings and used the last take of the second. By that take the light was already a little darker even than expected, but the emotional tension of the two moving from bickering to dancing, the tap steps, and the camera blocking had all reached their most perfect state.
 
