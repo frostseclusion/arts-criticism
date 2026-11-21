@@ -3,7 +3,7 @@ title: Mandopop—The Audience Is Not Blameless
 author: 雪蘅
 slug: mandopop-the-audience-is-not-blameless-en
 date: 2026-06-25
-updated: 2026-11-19
+updated: 2026-11-21
 status: published
 summary: Mandopop is awful. Fortunately, so is the audience.
 words: 2029
@@ -17,7 +17,7 @@ We have grown so used to the sheer wretchedness of the Chinese pop music scene t
 
 I don’t intend to spend a whole essay proving *why* the audience is not innocent. Many have tried before, and most have come to little good. The standard arguments on my side have grown so familiar to the other camp that they’ve lost most of their force. We may have to admit that the divide between those who believe the audience innocent and those who don’t is simply too wide to be bridged by yet another lengthy debate. That said, there is one thing I can still do: as someone firmly convinced that the audience is not blameless, I can point to which groups of listeners strike me as least innocent of all. In other words, I’m not going to force readers to share my conclusion—I’m just going to present some examples. Whether these examples are guilty, and whether their guilt is enough to show—at least in part—that criticizing the audience is necessary, I leave to you.
 
-# I. Worship the Old, Scorn the New—At Any Age
+# I. Worship the Old, Scorn the New—at Any Age
 
 First in line are those who worship the past and disparage the present. I say “at any age” because this tendency is by no means limited to older listeners; if anything, the peculiar ecosystem of Chinese pop has made it even more pronounced among young people, outstripping their elders. To be fair, the reason listeners of all generations so uniformly believe that “older Chinese music was simply better” ultimately stems from the failure of the new generation to deliver. Among the newer acts who have managed to go mainstream, none can hold a candle to the kings and queens of yesteryear. Meanwhile, those with talent and originality struggle to gain commercial recognition. But none of that justifies the sheer shamelessness with which so many listeners indulge in their nostalgia.
 

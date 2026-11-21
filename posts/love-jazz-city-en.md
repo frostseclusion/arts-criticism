@@ -3,10 +3,10 @@ title: Love · Jazz · City
 author: 雪蘅
 slug: love-jazz-city-en
 date: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-21
 status: published
 summary: The first time in years I have distilled my feelings about my favorite film into words.
-words: 3947
+words: 3948
 tags: [Film, La La Land]
 lang: en
 translation_of: love-jazz-city
@@ -45,7 +45,7 @@ When *La La Land* was first released in mainland China, I was still in elementar
 
 At the time I was in an interest class the school ran—news writing (a coincidence, always photography). The teacher was an interesting person with a rich life behind her, and, I suppose, a young artist at heart. In class she talked with us about film with great relish, as if a room of fourth and sixth graders could understand her. I do not blame her, though. I have always thought that not losing your enthusiasm for talking freely just because of your audience’s age is an excellent quality.
 
-Back to the film. The distributor that year chose to release it on 14 February, which really was a cruel joke. Learning about this arrangement years later, I can imagine couples all over the streets buying into the film’s marketing, walking into the cinema full of anticipation, and ending up with a bad ending. But the studio’s reasoning was perfectly sound. It really is a film about love, no mistake about it.
+Back to the film. The distributor that year chose to release it on 14 February, which really was a cruel joke. Learning about this arrangement years later, I can imagine couples all over the streets buying into the film’s marketing, walking into the movie theater full of anticipation, and ending up with a bad ending. But the studio’s reasoning was perfectly sound. It really is a film about love, no mistake about it.
 
 Except that Mia and Seb’s love is out of the ordinary. Their first meeting began with road rage on the highway and ended at the moment Mia, drawn by the piano, walked into the restaurant. Later I learned that this is the classic Hollywood plot pattern that arose in the 1930s—the bickering couple, also called screwball comedy. Their time together is spent, from the very beginning, in the tension of opposition and conflict. Mia is a “would-be actress” working in a café, her dreams stymied again and again, sensitive and unyielding; Seb cannot even hold down a job, stubborn and aloof, and his understanding and acceptance of reality may be even less than Mia’s.
 

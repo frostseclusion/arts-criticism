@@ -3,9 +3,10 @@ title: Why King Crimson Speaks Japanese
 author: 雪蘅
 slug: why-king-crimson-speaks-japanese-en
 date: 2026-11-12
+updated: 2026-11-21
 status: published
 summary: A speculative dive into the creative motivations behind “Matte Kudasai.”
-words: 1657
+words: 1658
 tags: [Music, Culture, King Crimson]
 lang: en
 translation_of: why-king-crimson-speaks-japanese
@@ -32,7 +33,7 @@ The lyrics sustain this melancholy air, weaving a tale of a long wait—one that
 
 But why, of all languages, Japanese?
 
-King Crimson is a British band; their native tongue is English. The location hinted at in the lyrics is America, which also speaks English. The theme is waiting. By all accounts, there is no inherent reason for Japanese to be used. “Matte Kudasai” itself comes from the Japanese「待ってください」—a simple, everyday expression with no deep esoteric meaning. Yet, this Japanese phrase floats in a sea of English, offering no authentic “Japanese vibe”, but rather, serving as a jarring ornament.
+King Crimson is a British band; their native tongue is English. The location hinted at in the lyrics is America, which also speaks English. The theme is waiting. By all accounts, there is no inherent reason for Japanese to be used. “Matte Kudasai” itself comes from the Japanese “待ってください”—a simple, everyday expression with no deep esoteric meaning. Yet, this Japanese phrase floats in a sea of English, offering no authentic “Japanese vibe”, but rather, serving as a jarring ornament.
 
 “Please wait.”
 
