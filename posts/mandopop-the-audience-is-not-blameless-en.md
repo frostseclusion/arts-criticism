@@ -2,7 +2,7 @@
 title: Mandopop—The Audience Is Not Blameless
 author: 雪蘅
 slug: mandopop-the-audience-is-not-blameless-en
-date: 2026-06-25
+date: 2026-06-30
 updated: 2026-11-21
 status: published
 summary: Mandopop is awful. Fortunately, so is the audience.
