@@ -3,7 +3,7 @@ title: 爱·乐·城
 author: 雪蘅
 slug: love-jazz-city
 date: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-25
 status: published
 summary: 多年来第一次凝练对自己最爱电影的感受。
 words: 5746
